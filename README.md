@@ -27,5 +27,15 @@ This tools works in the following way:
 $ git clone https://github.com/szymonsadowski3/Simple-Music-Video-Generator.git
 ```
 
-## Basic use
+## Basic use (see also: [Pictures](#pictures))
 
+1. Firstly, you must define your config file (via GUI or by writing it yourself)
+2. After this step you are ready to generate your music video
+3. Run from your command line generator: ```python3.5 generator.py <path_to_config_file>```
+4. Wait for your results :D
+
+## Pictures
+
+1. ![1st step](http://i.imgur.com/vbH2OnS.png)
+2. ![2ndstep](http://i.imgur.com/2eJqUlV.png)
+3. ![3rd step](http://imgur.com/IfkCh3Pl.png)
